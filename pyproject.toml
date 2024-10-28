@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "snapgene-crawler"
+version = "0.1.0"
+description = "crawler for the SnapGene website, that lists all the plasmids in their collection"
+authors = ["Manuel Lera-Ramirez <manulera14@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+beautifulsoup4 = "^4.12.3"
+requests = "^2.32.3"
+pyyaml = "^6.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
