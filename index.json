@@ -7,1208 +7,1232 @@
         "subpath": "BlueScribe"
       },
       {
-        "name": "pEASY-T1 (linearized)",
-        "subpath": "pEASY-T1_(linearized)"
-      },
-      {
-        "name": "pJET1.2",
-        "subpath": "pJET1.2"
-      },
-      {
-        "name": "pSMART LCAmp",
-        "subpath": "pSMART_LCAmp"
-      },
-      {
-        "name": "CAG promoter",
-        "subpath": "CAG_promoter"
-      },
-      {
         "name": "pEASY-T1 Simple (linearized)",
         "subpath": "pEASY-T1_Simple_(linearized)"
-      },
-      {
-        "name": "pJET1.2 blunt",
-        "subpath": "pJET1.2_blunt"
-      },
-      {
-        "name": "pSMART LCAmp (linearized)",
-        "subpath": "pSMART_LCAmp_(linearized)"
-      },
-      {
-        "name": "chicken beta-actin promoter",
-        "subpath": "chicken_beta-actin_promoter"
-      },
-      {
-        "name": "pEASY-T3 (linearized)",
-        "subpath": "pEASY-T3_(linearized)"
       },
       {
         "name": "pJW168",
         "subpath": "pJW168"
       },
       {
-        "name": "pSMART LCKan",
-        "subpath": "pSMART_LCKan"
+        "name": "pSMART HCKan (linearized)",
+        "subpath": "pSMART_HCKan_(linearized)"
       },
       {
-        "name": "CLIP-tag",
-        "subpath": "CLIP-tag"
+        "name": "CAG promoter",
+        "subpath": "CAG_promoter"
       },
       {
-        "name": "pEASY-T5 Zero (linearized)",
-        "subpath": "pEASY-T5_Zero_(linearized)"
+        "name": "pEASY-T3 (linearized)",
+        "subpath": "pEASY-T3_(linearized)"
       },
       {
         "name": "pKF 18k-2",
         "subpath": "pKF_18k-2"
       },
       {
-        "name": "pSMART LCKan (linearized)",
-        "subpath": "pSMART_LCKan_(linearized)"
+        "name": "pSMART LCAmp",
+        "subpath": "pSMART_LCAmp"
       },
       {
-        "name": "CMV promoter",
-        "subpath": "CMV_promoter"
+        "name": "chicken beta-actin promoter",
+        "subpath": "chicken_beta-actin_promoter"
       },
       {
-        "name": "pEX-1",
-        "subpath": "pEX-1"
+        "name": "pEASY-T5 Zero (linearized)",
+        "subpath": "pEASY-T5_Zero_(linearized)"
       },
       {
         "name": "pKF 19k-2",
         "subpath": "pKF_19k-2"
       },
       {
-        "name": "pSP64 Poly(A)",
-        "subpath": "pSP64_Poly(A)"
+        "name": "pSMART LCAmp (linearized)",
+        "subpath": "pSMART_LCAmp_(linearized)"
       },
       {
-        "name": "GAL1 promoter",
-        "subpath": "GAL1_promoter"
+        "name": "CLIP-tag",
+        "subpath": "CLIP-tag"
       },
       {
-        "name": "pEX-A",
-        "subpath": "pEX-A"
+        "name": "pEX-1",
+        "subpath": "pEX-1"
       },
       {
         "name": "pKOV",
         "subpath": "pKOV"
       },
       {
-        "name": "pSP72",
-        "subpath": "pSP72"
+        "name": "pSMART LCKan",
+        "subpath": "pSMART_LCKan"
       },
       {
-        "name": "GST",
-        "subpath": "GST"
+        "name": "CMV promoter",
+        "subpath": "CMV_promoter"
       },
       {
-        "name": "pEX-C-GST",
-        "subpath": "pEX-C-GST"
+        "name": "pEX-A",
+        "subpath": "pEX-A"
       },
       {
         "name": "pLATE11 (linearized)",
         "subpath": "pLATE11_(linearized)"
       },
       {
-        "name": "pSP73",
-        "subpath": "pSP73"
+        "name": "pSMART LCKan (linearized)",
+        "subpath": "pSMART_LCKan_(linearized)"
       },
       {
-        "name": "HaloTag",
-        "subpath": "HaloTag"
+        "name": "GAL1 promoter",
+        "subpath": "GAL1_promoter"
       },
       {
-        "name": "pEX-C-His",
-        "subpath": "pEX-C-His"
+        "name": "pEX-C-GST",
+        "subpath": "pEX-C-GST"
       },
       {
         "name": "pLATE31 (linearized)",
         "subpath": "pLATE31_(linearized)"
       },
       {
-        "name": "pSpark Done (linearized)",
-        "subpath": "pSpark_Done_(linearized)"
+        "name": "pSP64 Poly(A)",
+        "subpath": "pSP64_Poly(A)"
       },
       {
-        "name": "HSV TK promoter",
-        "subpath": "HSV_TK_promoter"
+        "name": "GST",
+        "subpath": "GST"
       },
       {
-        "name": "pEX-K",
-        "subpath": "pEX-K"
+        "name": "pEX-C-His",
+        "subpath": "pEX-C-His"
       },
       {
         "name": "pLATE51 (linearized)",
         "subpath": "pLATE51_(linearized)"
       },
       {
-        "name": "pSpark I (linearized)",
-        "subpath": "pSpark_I_(linearized)"
+        "name": "pSP72",
+        "subpath": "pSP72"
       },
       {
-        "name": "lac operator",
-        "subpath": "lac_operator"
+        "name": "HaloTag",
+        "subpath": "HaloTag"
       },
       {
-        "name": "pEX-N-GST",
-        "subpath": "pEX-N-GST"
+        "name": "pEX-K",
+        "subpath": "pEX-K"
       },
       {
         "name": "pLATE52 (linearized)",
         "subpath": "pLATE52_(linearized)"
       },
       {
-        "name": "pSpark II (linearized)",
-        "subpath": "pSpark_II_(linearized)"
+        "name": "pSP73",
+        "subpath": "pSP73"
       },
       {
-        "name": "lac promoter",
-        "subpath": "lac_promoter"
+        "name": "HSV TK promoter",
+        "subpath": "HSV_TK_promoter"
       },
       {
-        "name": "pEX-N-His",
-        "subpath": "pEX-N-His"
+        "name": "pEX-N-GST",
+        "subpath": "pEX-N-GST"
       },
       {
         "name": "pLEXX-AK",
         "subpath": "pLEXX-AK"
       },
       {
-        "name": "pSpark III (linearized)",
-        "subpath": "pSpark_III_(linearized)"
+        "name": "pSpark Done (linearized)",
+        "subpath": "pSpark_Done_(linearized)"
       },
       {
-        "name": "lac UV5 promoter",
-        "subpath": "lac_UV5_promoter"
+        "name": "lac operator",
+        "subpath": "lac_operator"
       },
       {
-        "name": "pEX-N-His-GST",
-        "subpath": "pEX-N-His-GST"
+        "name": "pEX-N-His",
+        "subpath": "pEX-N-His"
       },
       {
         "name": "pLPS-B (linearized)",
         "subpath": "pLPS-B_(linearized)"
       },
       {
-        "name": "pSpark IV (linearized)",
-        "subpath": "pSpark_IV_(linearized)"
+        "name": "pSpark I (linearized)",
+        "subpath": "pSpark_I_(linearized)"
       },
       {
-        "name": "lacZ",
-        "subpath": "lacZ"
+        "name": "lac promoter",
+        "subpath": "lac_promoter"
       },
       {
-        "name": "pEX1",
-        "subpath": "pEX1"
+        "name": "pEX-N-His-GST",
+        "subpath": "pEX-N-His-GST"
       },
       {
         "name": "pMAL-c5E",
         "subpath": "pMAL-c5E"
       },
       {
-        "name": "pSpark V (linearized)",
-        "subpath": "pSpark_V_(linearized)"
+        "name": "pSpark II (linearized)",
+        "subpath": "pSpark_II_(linearized)"
       },
       {
-        "name": "lambda",
-        "subpath": "lambda"
+        "name": "lac UV5 promoter",
+        "subpath": "lac_UV5_promoter"
       },
       {
-        "name": "pEX2",
-        "subpath": "pEX2"
+        "name": "pEX1",
+        "subpath": "pEX1"
       },
       {
         "name": "pMAL-c5G",
         "subpath": "pMAL-c5G"
       },
       {
-        "name": "pSpot1",
-        "subpath": "pSpot1"
+        "name": "pSpark III (linearized)",
+        "subpath": "pSpark_III_(linearized)"
       },
       {
-        "name": "LITMUS28",
-        "subpath": "LITMUS28"
+        "name": "lacZ",
+        "subpath": "lacZ"
       },
       {
-        "name": "pEX3",
-        "subpath": "pEX3"
+        "name": "pEX2",
+        "subpath": "pEX2"
       },
       {
         "name": "pMAL-c5X",
         "subpath": "pMAL-c5X"
       },
       {
-        "name": "pSpot2",
-        "subpath": "pSpot2"
+        "name": "pSpark IV (linearized)",
+        "subpath": "pSpark_IV_(linearized)"
       },
       {
-        "name": "LITMUS28i",
-        "subpath": "LITMUS28i"
+        "name": "lambda",
+        "subpath": "lambda"
       },
       {
-        "name": "pEZSeq-Amp",
-        "subpath": "pEZSeq-Amp"
+        "name": "pEX3",
+        "subpath": "pEX3"
       },
       {
         "name": "pMAL-c5X-His",
         "subpath": "pMAL-c5X-His"
       },
       {
-        "name": "pSpot3",
-        "subpath": "pSpot3"
+        "name": "pSpark V (linearized)",
+        "subpath": "pSpark_V_(linearized)"
       },
       {
-        "name": "LITMUS29",
-        "subpath": "LITMUS29"
+        "name": "LITMUS28",
+        "subpath": "LITMUS28"
       },
       {
-        "name": "pEZSeq-Amp (linearized)",
-        "subpath": "pEZSeq-Amp_(linearized)"
+        "name": "pEZSeq-Amp",
+        "subpath": "pEZSeq-Amp"
       },
       {
         "name": "pMAL-c6T",
         "subpath": "pMAL-c6T"
       },
       {
-        "name": "pSpot4",
-        "subpath": "pSpot4"
+        "name": "pSpot1",
+        "subpath": "pSpot1"
       },
       {
-        "name": "LITMUS38",
-        "subpath": "LITMUS38"
+        "name": "LITMUS28i",
+        "subpath": "LITMUS28i"
       },
       {
-        "name": "pEZSeq-Kan",
-        "subpath": "pEZSeq-Kan"
+        "name": "pEZSeq-Amp (linearized)",
+        "subpath": "pEZSeq-Amp_(linearized)"
       },
       {
         "name": "pMAL-p5E",
         "subpath": "pMAL-p5E"
       },
       {
-        "name": "pSTBlue-1",
-        "subpath": "pSTBlue-1"
+        "name": "pSpot2",
+        "subpath": "pSpot2"
       },
       {
-        "name": "LITMUS38i",
-        "subpath": "LITMUS38i"
+        "name": "LITMUS29",
+        "subpath": "LITMUS29"
       },
       {
-        "name": "pEZSeq-Kan (linearized)",
-        "subpath": "pEZSeq-Kan_(linearized)"
+        "name": "pEZSeq-Kan",
+        "subpath": "pEZSeq-Kan"
       },
       {
         "name": "pMAL-p5G",
         "subpath": "pMAL-p5G"
       },
       {
-        "name": "pSTV28",
-        "subpath": "pSTV28"
+        "name": "pSpot3",
+        "subpath": "pSpot3"
       },
       {
-        "name": "LITMUS39",
-        "subpath": "LITMUS39"
+        "name": "LITMUS38",
+        "subpath": "LITMUS38"
       },
       {
-        "name": "pEZ BAC",
-        "subpath": "pEZ_BAC"
+        "name": "pEZSeq-Kan (linearized)",
+        "subpath": "pEZSeq-Kan_(linearized)"
       },
       {
         "name": "pMAL-p5X",
         "subpath": "pMAL-p5X"
       },
       {
-        "name": "pSTV29",
-        "subpath": "pSTV29"
+        "name": "pSpot4",
+        "subpath": "pSpot4"
       },
       {
-        "name": "M13mp18",
-        "subpath": "M13mp18"
+        "name": "LITMUS38i",
+        "subpath": "LITMUS38i"
       },
       {
-        "name": "pEZ BAC (BamHI linearized)",
-        "subpath": "pEZ_BAC_(BamHI_linearized)"
+        "name": "pEZ BAC",
+        "subpath": "pEZ_BAC"
       },
       {
         "name": "pMCS5",
         "subpath": "pMCS5"
       },
       {
-        "name": "pT7Blue",
-        "subpath": "pT7Blue"
+        "name": "pSTBlue-1",
+        "subpath": "pSTBlue-1"
       },
       {
-        "name": "M13mp19",
-        "subpath": "M13mp19"
+        "name": "LITMUS39",
+        "subpath": "LITMUS39"
       },
       {
-        "name": "pEZ BAC (HpaI linearized)",
-        "subpath": "pEZ_BAC_(HpaI_linearized)"
+        "name": "pEZ BAC (BamHI linearized)",
+        "subpath": "pEZ_BAC_(BamHI_linearized)"
       },
       {
         "name": "pMiniT",
         "subpath": "pMiniT"
       },
       {
-        "name": "pT7Blue-2",
-        "subpath": "pT7Blue-2"
+        "name": "pSTV28",
+        "subpath": "pSTV28"
       },
       {
-        "name": "MBP",
-        "subpath": "MBP"
+        "name": "M13mp18",
+        "subpath": "M13mp18"
       },
       {
-        "name": "pF1A T7",
-        "subpath": "pF1A_T7"
+        "name": "pEZ BAC (HpaI linearized)",
+        "subpath": "pEZ_BAC_(HpaI_linearized)"
       },
       {
         "name": "pMiniT (linearized)",
         "subpath": "pMiniT_(linearized)"
       },
       {
-        "name": "pT7Blue-3",
-        "subpath": "pT7Blue-3"
+        "name": "pSTV29",
+        "subpath": "pSTV29"
       },
       {
-        "name": "pACYC177",
-        "subpath": "pACYC177"
+        "name": "M13mp19",
+        "subpath": "M13mp19"
       },
       {
-        "name": "pF1K T7",
-        "subpath": "pF1K_T7"
+        "name": "pF1A T7",
+        "subpath": "pF1A_T7"
       },
       {
         "name": "pMiniT 2.0",
         "subpath": "pMiniT_2.0"
       },
       {
-        "name": "pT7CFE1-CFtag",
-        "subpath": "pT7CFE1-CFtag"
+        "name": "pT7Blue",
+        "subpath": "pT7Blue"
       },
       {
-        "name": "pACYC184",
-        "subpath": "pACYC184"
+        "name": "MBP",
+        "subpath": "MBP"
       },
       {
-        "name": "pF25A ICE T7",
-        "subpath": "pF25A_ICE_T7"
+        "name": "pF1K T7",
+        "subpath": "pF1K_T7"
       },
       {
         "name": "pMiniT 2.0 (linearized)",
         "subpath": "pMiniT_2.0_(linearized)"
       },
       {
-        "name": "pT7CFE1-CGFP-HA-His",
-        "subpath": "pT7CFE1-CGFP-HA-His"
+        "name": "pT7Blue-2",
+        "subpath": "pT7Blue-2"
       },
       {
-        "name": "pAN7-1",
-        "subpath": "pAN7-1"
+        "name": "pACYC177",
+        "subpath": "pACYC177"
       },
       {
-        "name": "pF25K ICE T7",
-        "subpath": "pF25K_ICE_T7"
+        "name": "pF25A ICE T7",
+        "subpath": "pF25A_ICE_T7"
       },
       {
         "name": "pMMB190",
         "subpath": "pMMB190"
       },
       {
-        "name": "pT7CFE1-CGST-HA-His",
-        "subpath": "pT7CFE1-CGST-HA-His"
+        "name": "pT7Blue-3",
+        "subpath": "pT7Blue-3"
       },
       {
-        "name": "pANT7_cGST",
-        "subpath": "pANT7_cGST"
+        "name": "pACYC184",
+        "subpath": "pACYC184"
       },
       {
-        "name": "pF3A WG (BYDV)",
-        "subpath": "pF3A_WG_(BYDV)"
+        "name": "pF25K ICE T7",
+        "subpath": "pF25K_ICE_T7"
       },
       {
         "name": "pMMB206",
         "subpath": "pMMB206"
       },
       {
-        "name": "pT7CFE1-CHA",
-        "subpath": "pT7CFE1-CHA"
+        "name": "pT7CFE1-CFtag",
+        "subpath": "pT7CFE1-CFtag"
       },
       {
-        "name": "pANT7_nHA",
-        "subpath": "pANT7_nHA"
+        "name": "pAN7-1",
+        "subpath": "pAN7-1"
       },
       {
-        "name": "pF3K WG (BYDV)",
-        "subpath": "pF3K_WG_(BYDV)"
+        "name": "pF3A WG (BYDV)",
+        "subpath": "pF3A_WG_(BYDV)"
       },
       {
         "name": "pMMB207",
         "subpath": "pMMB207"
       },
       {
-        "name": "pT7CFE1-CHis",
-        "subpath": "pT7CFE1-CHis"
+        "name": "pT7CFE1-CGFP-HA-His",
+        "subpath": "pT7CFE1-CGFP-HA-His"
       },
       {
-        "name": "pAUR316",
-        "subpath": "pAUR316"
+        "name": "pANT7_cGST",
+        "subpath": "pANT7_cGST"
       },
       {
-        "name": "pFC20A HaloTag T7 SP6",
-        "subpath": "pFC20A_HaloTag_T7_SP6"
+        "name": "pF3K WG (BYDV)",
+        "subpath": "pF3K_WG_(BYDV)"
       },
       {
         "name": "pMMB208",
         "subpath": "pMMB208"
       },
       {
-        "name": "pT7CFE1-CMyc",
-        "subpath": "pT7CFE1-CMyc"
+        "name": "pT7CFE1-CGST-HA-His",
+        "subpath": "pT7CFE1-CGST-HA-His"
       },
       {
-        "name": "pBC KS(+)",
-        "subpath": "pBC_KS(%2B)"
+        "name": "pANT7_nHA",
+        "subpath": "pANT7_nHA"
       },
       {
-        "name": "pFC20K HaloTag T7 SP6",
-        "subpath": "pFC20K_HaloTag_T7_SP6"
+        "name": "pFC20A HaloTag T7 SP6",
+        "subpath": "pFC20A_HaloTag_T7_SP6"
       },
       {
         "name": "pMMB66EH",
         "subpath": "pMMB66EH"
       },
       {
-        "name": "pT7CFE1-NFtag",
-        "subpath": "pT7CFE1-NFtag"
+        "name": "pT7CFE1-CHA",
+        "subpath": "pT7CFE1-CHA"
       },
       {
-        "name": "pBC KS(-)",
-        "subpath": "pBC_KS(-)"
+        "name": "pAUR316",
+        "subpath": "pAUR316"
       },
       {
-        "name": "pFC30A His6HaloTag T7",
-        "subpath": "pFC30A_His6HaloTag_T7"
+        "name": "pFC20K HaloTag T7 SP6",
+        "subpath": "pFC20K_HaloTag_T7_SP6"
       },
       {
         "name": "pMMB66HE",
         "subpath": "pMMB66HE"
       },
       {
-        "name": "pT7CFE1-NHA",
-        "subpath": "pT7CFE1-NHA"
+        "name": "pT7CFE1-CHis",
+        "subpath": "pT7CFE1-CHis"
       },
       {
-        "name": "pBC SK(+)",
-        "subpath": "pBC_SK(%2B)"
+        "name": "pBC KS(+)",
+        "subpath": "pBC_KS(%2B)"
       },
       {
-        "name": "pFC30K His6HaloTag T7",
-        "subpath": "pFC30K_His6HaloTag_T7"
+        "name": "pFC30A His6HaloTag T7",
+        "subpath": "pFC30A_His6HaloTag_T7"
       },
       {
         "name": "pMMB67EH",
         "subpath": "pMMB67EH"
       },
       {
-        "name": "pT7CFE1-NHA-CHis",
-        "subpath": "pT7CFE1-NHA-CHis"
+        "name": "pT7CFE1-CMyc",
+        "subpath": "pT7CFE1-CMyc"
       },
       {
-        "name": "pBC SK(-)",
-        "subpath": "pBC_SK(-)"
+        "name": "pBC KS(-)",
+        "subpath": "pBC_KS(-)"
       },
       {
-        "name": "pFC7A (HQ)",
-        "subpath": "pFC7A_(HQ)"
+        "name": "pFC30K His6HaloTag T7",
+        "subpath": "pFC30K_His6HaloTag_T7"
       },
       {
         "name": "pMMB67HE",
         "subpath": "pMMB67HE"
       },
       {
-        "name": "pT7CFE1-NHis",
-        "subpath": "pT7CFE1-NHis"
+        "name": "pT7CFE1-NFtag",
+        "subpath": "pT7CFE1-NFtag"
       },
       {
-        "name": "pBeloBAC11",
-        "subpath": "pBeloBAC11"
+        "name": "pBC SK(+)",
+        "subpath": "pBC_SK(%2B)"
       },
       {
-        "name": "pFC7K (HQ)",
-        "subpath": "pFC7K_(HQ)"
+        "name": "pFC7A (HQ)",
+        "subpath": "pFC7A_(HQ)"
       },
       {
         "name": "pNEB193",
         "subpath": "pNEB193"
       },
       {
-        "name": "pT7CFE1-NHis-GST",
-        "subpath": "pT7CFE1-NHis-GST"
+        "name": "pT7CFE1-NHA",
+        "subpath": "pT7CFE1-NHA"
       },
       {
-        "name": "pBluescript II KS(+)",
-        "subpath": "pBluescript_II_KS(%2B)"
+        "name": "pBC SK(-)",
+        "subpath": "pBC_SK(-)"
       },
       {
-        "name": "pFN18A HaloTag T7",
-        "subpath": "pFN18A_HaloTag_T7"
+        "name": "pFC7K (HQ)",
+        "subpath": "pFC7K_(HQ)"
       },
       {
         "name": "pNEB206A (linearized)",
         "subpath": "pNEB206A_(linearized)"
       },
       {
-        "name": "pT7CFE1-NHis-GST-CHA",
-        "subpath": "pT7CFE1-NHis-GST-CHA"
+        "name": "pT7CFE1-NHA-CHis",
+        "subpath": "pT7CFE1-NHA-CHis"
       },
       {
-        "name": "pBluescript II KS(-)",
-        "subpath": "pBluescript_II_KS(-)"
+        "name": "pBeloBAC11",
+        "subpath": "pBeloBAC11"
       },
       {
-        "name": "pFN18K HaloTag T7",
-        "subpath": "pFN18K_HaloTag_T7"
+        "name": "pFN18A HaloTag T7",
+        "subpath": "pFN18A_HaloTag_T7"
       },
       {
         "name": "pOSIP-CH",
         "subpath": "pOSIP-CH"
       },
       {
-        "name": "pT7CFE1-NMyc",
-        "subpath": "pT7CFE1-NMyc"
+        "name": "pT7CFE1-NHis",
+        "subpath": "pT7CFE1-NHis"
       },
       {
-        "name": "pBluescript II SK(+)",
-        "subpath": "pBluescript_II_SK(%2B)"
+        "name": "pBluescript II KS(+)",
+        "subpath": "pBluescript_II_KS(%2B)"
       },
       {
-        "name": "pFN19A HaloTag T7 SP6",
-        "subpath": "pFN19A_HaloTag_T7_SP6"
+        "name": "pFN18K HaloTag T7",
+        "subpath": "pFN18K_HaloTag_T7"
       },
       {
         "name": "pOSIP-CO",
         "subpath": "pOSIP-CO"
       },
       {
-        "name": "pTOP Blunt V2 (linearized)",
-        "subpath": "pTOP_Blunt_V2_(linearized)"
+        "name": "pT7CFE1-NHis-GST",
+        "subpath": "pT7CFE1-NHis-GST"
       },
       {
-        "name": "pBluescript II SK(-)",
-        "subpath": "pBluescript_II_SK(-)"
+        "name": "pBluescript II KS(-)",
+        "subpath": "pBluescript_II_KS(-)"
       },
       {
-        "name": "pFN19K HaloTag T7 SP6",
-        "subpath": "pFN19K_HaloTag_T7_SP6"
+        "name": "pFN19A HaloTag T7 SP6",
+        "subpath": "pFN19A_HaloTag_T7_SP6"
       },
       {
         "name": "pOSIP-CT",
         "subpath": "pOSIP-CT"
       },
       {
-        "name": "pTrcHis A",
-        "subpath": "pTrcHis_A"
+        "name": "pT7CFE1-NHis-GST-CHA",
+        "subpath": "pT7CFE1-NHis-GST-CHA"
       },
       {
-        "name": "pBluescript KS(+)",
-        "subpath": "pBluescript_KS(%2B)"
+        "name": "pBluescript II SK(+)",
+        "subpath": "pBluescript_II_SK(%2B)"
       },
       {
-        "name": "pFN29A His6HaloTag T7",
-        "subpath": "pFN29A_His6HaloTag_T7"
+        "name": "pFN19K HaloTag T7 SP6",
+        "subpath": "pFN19K_HaloTag_T7_SP6"
       },
       {
         "name": "pOSIP-KC",
         "subpath": "pOSIP-KC"
       },
       {
-        "name": "pTrcHis B",
-        "subpath": "pTrcHis_B"
+        "name": "pT7CFE1-NMyc",
+        "subpath": "pT7CFE1-NMyc"
       },
       {
-        "name": "pBluescript KS(-)",
-        "subpath": "pBluescript_KS(-)"
+        "name": "pBluescript II SK(-)",
+        "subpath": "pBluescript_II_SK(-)"
       },
       {
-        "name": "pFN29K His6HaloTag T7",
-        "subpath": "pFN29K_His6HaloTag_T7"
+        "name": "pFN29A His6HaloTag T7",
+        "subpath": "pFN29A_His6HaloTag_T7"
       },
       {
         "name": "pOSIP-KH",
         "subpath": "pOSIP-KH"
       },
       {
-        "name": "pTrcHis C",
-        "subpath": "pTrcHis_C"
+        "name": "pTOP Blunt V2 (linearized)",
+        "subpath": "pTOP_Blunt_V2_(linearized)"
       },
       {
-        "name": "pBluescript SK(+)",
-        "subpath": "pBluescript_SK(%2B)"
+        "name": "pBluescript KS(+)",
+        "subpath": "pBluescript_KS(%2B)"
       },
       {
-        "name": "pFN2A (GST)",
-        "subpath": "pFN2A_(GST)"
+        "name": "pFN29K His6HaloTag T7",
+        "subpath": "pFN29K_His6HaloTag_T7"
       },
       {
         "name": "pOSIP-KL",
         "subpath": "pOSIP-KL"
       },
       {
-        "name": "pTrcHis2 A",
-        "subpath": "pTrcHis2_A"
+        "name": "pTrcHis A",
+        "subpath": "pTrcHis_A"
       },
       {
-        "name": "pBluescript SK(-)",
-        "subpath": "pBluescript_SK(-)"
+        "name": "pBluescript KS(-)",
+        "subpath": "pBluescript_KS(-)"
       },
       {
-        "name": "pFN2K (GST)",
-        "subpath": "pFN2K_(GST)"
+        "name": "pFN2A (GST)",
+        "subpath": "pFN2A_(GST)"
       },
       {
         "name": "pOSIP-KO",
         "subpath": "pOSIP-KO"
       },
       {
-        "name": "pTrcHis2 B",
-        "subpath": "pTrcHis2_B"
+        "name": "pTrcHis B",
+        "subpath": "pTrcHis_B"
       },
       {
-        "name": "pBR322",
-        "subpath": "pBR322"
+        "name": "pBluescript SK(+)",
+        "subpath": "pBluescript_SK(%2B)"
       },
       {
-        "name": "pFN6A (HQ)",
-        "subpath": "pFN6A_(HQ)"
+        "name": "pFN2K (GST)",
+        "subpath": "pFN2K_(GST)"
       },
       {
         "name": "pOSIP-KP",
         "subpath": "pOSIP-KP"
       },
       {
-        "name": "pTrcHis2 C",
-        "subpath": "pTrcHis2_C"
+        "name": "pTrcHis C",
+        "subpath": "pTrcHis_C"
       },
       {
-        "name": "pBS KS(+)",
-        "subpath": "pBS_KS(%2B)"
+        "name": "pBluescript SK(-)",
+        "subpath": "pBluescript_SK(-)"
       },
       {
-        "name": "pFN6K (HQ)",
-        "subpath": "pFN6K_(HQ)"
+        "name": "pFN6A (HQ)",
+        "subpath": "pFN6A_(HQ)"
       },
       {
         "name": "pOSIP-KT",
         "subpath": "pOSIP-KT"
       },
       {
-        "name": "pTV 118N",
-        "subpath": "pTV_118N"
+        "name": "pTrcHis2 A",
+        "subpath": "pTrcHis2_A"
       },
       {
-        "name": "pBS KS(-)",
-        "subpath": "pBS_KS(-)"
+        "name": "pBR322",
+        "subpath": "pBR322"
       },
       {
-        "name": "pGEM-11Zf(+)",
-        "subpath": "pGEM-11Zf(%2B)"
+        "name": "pFN6K (HQ)",
+        "subpath": "pFN6K_(HQ)"
       },
       {
         "name": "pOSIP-TH",
         "subpath": "pOSIP-TH"
       },
       {
-        "name": "pTWV228",
-        "subpath": "pTWV228"
+        "name": "pTrcHis2 B",
+        "subpath": "pTrcHis2_B"
       },
       {
-        "name": "pBS SK(+)",
-        "subpath": "pBS_SK(%2B)"
+        "name": "pBS KS(+)",
+        "subpath": "pBS_KS(%2B)"
       },
       {
-        "name": "pGEM-11Zf(-)",
-        "subpath": "pGEM-11Zf(-)"
+        "name": "pGEM-11Zf(+)",
+        "subpath": "pGEM-11Zf(%2B)"
       },
       {
         "name": "pOSIP-TO",
         "subpath": "pOSIP-TO"
       },
       {
-        "name": "pTXB1",
-        "subpath": "pTXB1"
+        "name": "pTrcHis2 C",
+        "subpath": "pTrcHis2_C"
       },
       {
-        "name": "pBS SK(-)",
-        "subpath": "pBS_SK(-)"
+        "name": "pBS KS(-)",
+        "subpath": "pBS_KS(-)"
       },
       {
-        "name": "pGEM-3Z",
-        "subpath": "pGEM-3Z"
+        "name": "pGEM-11Zf(-)",
+        "subpath": "pGEM-11Zf(-)"
       },
       {
         "name": "pOSIP-TT",
         "subpath": "pOSIP-TT"
       },
       {
-        "name": "pTYB21",
-        "subpath": "pTYB21"
+        "name": "pTV 118N",
+        "subpath": "pTV_118N"
       },
       {
-        "name": "pBS(+)",
-        "subpath": "pBS(%2B)"
+        "name": "pBS SK(+)",
+        "subpath": "pBS_SK(%2B)"
       },
       {
-        "name": "pGEM-3Zf(+)",
-        "subpath": "pGEM-3Zf(%2B)"
+        "name": "pGEM-3Z",
+        "subpath": "pGEM-3Z"
       },
       {
         "name": "pPCR-Script Amp SK(+)",
         "subpath": "pPCR-Script_Amp_SK(%2B)"
       },
       {
-        "name": "pType IIs",
-        "subpath": "pType_IIs"
+        "name": "pTWV228",
+        "subpath": "pTWV228"
       },
       {
-        "name": "pBS(-)",
-        "subpath": "pBS(-)"
+        "name": "pBS SK(-)",
+        "subpath": "pBS_SK(-)"
       },
       {
-        "name": "pGEM-3Zf(-)",
-        "subpath": "pGEM-3Zf(-)"
+        "name": "pGEM-3Zf(+)",
+        "subpath": "pGEM-3Zf(%2B)"
       },
       {
         "name": "pPCR-Script Cam SK(+)",
         "subpath": "pPCR-Script_Cam_SK(%2B)"
       },
       {
-        "name": "pTZ19R",
-        "subpath": "pTZ19R"
+        "name": "pTXB1",
+        "subpath": "pTXB1"
       },
       {
-        "name": "pBSK(+) Simple-Amp",
-        "subpath": "pBSK(%2B)_Simple-Amp"
+        "name": "pBS(+)",
+        "subpath": "pBS(%2B)"
       },
       {
-        "name": "pGEM-4Z",
-        "subpath": "pGEM-4Z"
+        "name": "pGEM-3Zf(-)",
+        "subpath": "pGEM-3Zf(-)"
       },
       {
         "name": "pPTR I",
         "subpath": "pPTR_I"
       },
       {
-        "name": "pTZ19U",
-        "subpath": "pTZ19U"
+        "name": "pTYB21",
+        "subpath": "pTYB21"
       },
       {
-        "name": "pBSK(+) Simple-Kan",
-        "subpath": "pBSK(%2B)_Simple-Kan"
+        "name": "pBS(-)",
+        "subpath": "pBS(-)"
       },
       {
-        "name": "pGEM-5Zf(+)",
-        "subpath": "pGEM-5Zf(%2B)"
+        "name": "pGEM-4Z",
+        "subpath": "pGEM-4Z"
       },
       {
         "name": "pPTR II",
         "subpath": "pPTR_II"
       },
       {
-        "name": "pTZ57R",
-        "subpath": "pTZ57R"
+        "name": "pType IIs",
+        "subpath": "pType_IIs"
       },
       {
-        "name": "pcDNA3",
-        "subpath": "pcDNA3"
+        "name": "pBSK(+) Simple-Amp",
+        "subpath": "pBSK(%2B)_Simple-Amp"
+      },
+      {
+        "name": "pGEM-5Zf(+)",
+        "subpath": "pGEM-5Zf(%2B)"
+      },
+      {
+        "name": "pQLinkG2",
+        "subpath": "pQLinkG2"
+      },
+      {
+        "name": "pTZ19R",
+        "subpath": "pTZ19R"
+      },
+      {
+        "name": "pBSK(+) Simple-Kan",
+        "subpath": "pBSK(%2B)_Simple-Kan"
       },
       {
         "name": "pGEM-7Zf(+)",
         "subpath": "pGEM-7Zf(%2B)"
       },
       {
-        "name": "pRACE (linearized)",
-        "subpath": "pRACE_(linearized)"
+        "name": "pQLinkGD",
+        "subpath": "pQLinkGD"
       },
       {
-        "name": "pUAST",
-        "subpath": "pUAST"
+        "name": "pTZ19U",
+        "subpath": "pTZ19U"
       },
       {
-        "name": "pcDNA3.1(+)",
-        "subpath": "pcDNA3.1(%2B)"
+        "name": "pcDNA3",
+        "subpath": "pcDNA3"
       },
       {
         "name": "pGEM-7Zf(-)",
         "subpath": "pGEM-7Zf(-)"
       },
       {
-        "name": "pRANGER-BTB-1",
-        "subpath": "pRANGER-BTB-1"
+        "name": "pQLinkH",
+        "subpath": "pQLinkH"
       },
       {
-        "name": "pUC118",
-        "subpath": "pUC118"
+        "name": "pTZ57R",
+        "subpath": "pTZ57R"
       },
       {
-        "name": "pcDNA3.1(-)",
-        "subpath": "pcDNA3.1(-)"
+        "name": "pcDNA3.1(+)",
+        "subpath": "pcDNA3.1(%2B)"
       },
       {
         "name": "pGEM-9Zf(-)",
         "subpath": "pGEM-9Zf(-)"
       },
       {
-        "name": "pRANGER-BTB-2",
-        "subpath": "pRANGER-BTB-2"
+        "name": "pQLinkHD",
+        "subpath": "pQLinkHD"
       },
       {
-        "name": "pUC119",
-        "subpath": "pUC119"
+        "name": "pUAST",
+        "subpath": "pUAST"
       },
       {
-        "name": "pCold I",
-        "subpath": "pCold_I"
+        "name": "pcDNA3.1(-)",
+        "subpath": "pcDNA3.1(-)"
       },
       {
         "name": "pGEM-T",
         "subpath": "pGEM-T"
       },
       {
-        "name": "pRANGER-BTB-3",
-        "subpath": "pRANGER-BTB-3"
+        "name": "pQLinkN",
+        "subpath": "pQLinkN"
       },
       {
-        "name": "pUC18",
-        "subpath": "pUC18"
+        "name": "pUC118",
+        "subpath": "pUC118"
       },
       {
-        "name": "pCold II",
-        "subpath": "pCold_II"
+        "name": "pCold I",
+        "subpath": "pCold_I"
       },
       {
         "name": "pGEM-T (linearized)",
         "subpath": "pGEM-T_(linearized)"
       },
       {
-        "name": "pRANGER-BTB-5",
-        "subpath": "pRANGER-BTB-5"
+        "name": "pRACE (linearized)",
+        "subpath": "pRACE_(linearized)"
       },
       {
-        "name": "pUC19",
-        "subpath": "pUC19"
+        "name": "pUC119",
+        "subpath": "pUC119"
       },
       {
-        "name": "pCold III",
-        "subpath": "pCold_III"
+        "name": "pCold II",
+        "subpath": "pCold_II"
       },
       {
         "name": "pGEM-T Easy",
         "subpath": "pGEM-T_Easy"
       },
       {
-        "name": "pRHA-109",
-        "subpath": "pRHA-109"
+        "name": "pRANGER-BTB-1",
+        "subpath": "pRANGER-BTB-1"
       },
       {
-        "name": "pUC19L",
-        "subpath": "pUC19L"
+        "name": "pUC18",
+        "subpath": "pUC18"
       },
       {
-        "name": "pCold IV",
-        "subpath": "pCold_IV"
+        "name": "pCold III",
+        "subpath": "pCold_III"
       },
       {
         "name": "pGEM-T Easy (linearized)",
         "subpath": "pGEM-T_Easy_(linearized)"
       },
       {
-        "name": "pRHA-113",
-        "subpath": "pRHA-113"
+        "name": "pRANGER-BTB-2",
+        "subpath": "pRANGER-BTB-2"
       },
       {
-        "name": "pUC57",
-        "subpath": "pUC57"
+        "name": "pUC19",
+        "subpath": "pUC19"
       },
       {
-        "name": "pCold TF",
-        "subpath": "pCold_TF"
+        "name": "pCold IV",
+        "subpath": "pCold_IV"
       },
       {
         "name": "pGGA",
         "subpath": "pGGA"
       },
       {
-        "name": "pRHA-67",
-        "subpath": "pRHA-67"
+        "name": "pRANGER-BTB-3",
+        "subpath": "pRANGER-BTB-3"
       },
       {
-        "name": "pUC57-Kan",
-        "subpath": "pUC57-Kan"
+        "name": "pUC19L",
+        "subpath": "pUC19L"
       },
       {
-        "name": "pCR-XL-2-TOPO",
-        "subpath": "pCR-XL-2-TOPO"
+        "name": "pCold TF",
+        "subpath": "pCold_TF"
       },
       {
         "name": "pGGAselect",
         "subpath": "pGGAselect"
       },
       {
-        "name": "pRSET A",
-        "subpath": "pRSET_A"
+        "name": "pRANGER-BTB-5",
+        "subpath": "pRANGER-BTB-5"
       },
       {
-        "name": "pUC57-Simple",
-        "subpath": "pUC57-Simple"
+        "name": "pUC57",
+        "subpath": "pUC57"
       },
       {
-        "name": "pCR-XL-2-TOPO (linearized)",
-        "subpath": "pCR-XL-2-TOPO_(linearized)"
+        "name": "pCR-XL-2-TOPO",
+        "subpath": "pCR-XL-2-TOPO"
       },
       {
         "name": "PGK promoter",
         "subpath": "PGK_promoter"
       },
       {
-        "name": "pRSET B",
-        "subpath": "pRSET_B"
+        "name": "pRHA-109",
+        "subpath": "pRHA-109"
       },
       {
-        "name": "pUCmu",
-        "subpath": "pUCmu"
+        "name": "pUC57-Kan",
+        "subpath": "pUC57-Kan"
       },
       {
-        "name": "pDD",
-        "subpath": "pDD"
+        "name": "pCR-XL-2-TOPO (linearized)",
+        "subpath": "pCR-XL-2-TOPO_(linearized)"
       },
       {
         "name": "pGS-21a",
         "subpath": "pGS-21a"
       },
       {
-        "name": "pRSET C",
-        "subpath": "pRSET_C"
+        "name": "pRHA-113",
+        "subpath": "pRHA-113"
       },
       {
-        "name": "pVLT31",
-        "subpath": "pVLT31"
+        "name": "pUC57-Simple",
+        "subpath": "pUC57-Simple"
       },
       {
-        "name": "pDNR-Dual",
-        "subpath": "pDNR-Dual"
+        "name": "pDD",
+        "subpath": "pDD"
       },
       {
         "name": "pH6HTC His6HaloTag T7",
         "subpath": "pH6HTC_His6HaloTag_T7"
       },
       {
-        "name": "pSB1C3",
-        "subpath": "pSB1C3"
+        "name": "pRHA-67",
+        "subpath": "pRHA-67"
       },
       {
-        "name": "pVLT33",
-        "subpath": "pVLT33"
+        "name": "pUCmu",
+        "subpath": "pUCmu"
       },
       {
-        "name": "pDNR-LIB",
-        "subpath": "pDNR-LIB"
+        "name": "pDNR-Dual",
+        "subpath": "pDNR-Dual"
       },
       {
         "name": "pH6HTN His6HaloTag T7",
         "subpath": "pH6HTN_His6HaloTag_T7"
       },
       {
-        "name": "pSC101",
-        "subpath": "pSC101"
+        "name": "pRSET A",
+        "subpath": "pRSET_A"
       },
       {
-        "name": "pVLT35",
-        "subpath": "pVLT35"
+        "name": "pUCSP",
+        "subpath": "pUCSP"
       },
       {
-        "name": "pE-SUMOpro Amp",
-        "subpath": "pE-SUMOpro_Amp"
+        "name": "pDNR-LIB",
+        "subpath": "pDNR-LIB"
       },
       {
         "name": "pHP45(omega)",
         "subpath": "pHP45(omega)"
       },
       {
-        "name": "pSEAP2-Basic",
-        "subpath": "pSEAP2-Basic"
+        "name": "pRSET B",
+        "subpath": "pRSET_B"
       },
       {
-        "name": "pYES1L",
-        "subpath": "pYES1L"
+        "name": "pVLT31",
+        "subpath": "pVLT31"
       },
       {
-        "name": "pE-SUMOpro Kan",
-        "subpath": "pE-SUMOpro_Kan"
+        "name": "pE-SUMOpro Amp",
+        "subpath": "pE-SUMOpro_Amp"
       },
       {
         "name": "pHP45(omega)-Km",
         "subpath": "pHP45(omega)-Km"
       },
       {
-        "name": "pSF-Core",
-        "subpath": "pSF-Core"
+        "name": "pRSET C",
+        "subpath": "pRSET_C"
       },
       {
-        "name": "pZErO-2",
-        "subpath": "pZErO-2"
+        "name": "pVLT33",
+        "subpath": "pVLT33"
       },
       {
-        "name": "pE-SUMOpro3 Amp",
-        "subpath": "pE-SUMOpro3_Amp"
+        "name": "pE-SUMOpro Kan",
+        "subpath": "pE-SUMOpro_Kan"
       },
       {
         "name": "pHP45(omega)-Tc",
         "subpath": "pHP45(omega)-Tc"
       },
       {
-        "name": "pSMART BAC v2.0",
-        "subpath": "pSMART_BAC_v2.0"
+        "name": "pSB1C3",
+        "subpath": "pSB1C3"
       },
       {
-        "name": "SNAP-tag",
-        "subpath": "SNAP-tag"
+        "name": "pVLT35",
+        "subpath": "pVLT35"
       },
       {
-        "name": "pE-SUMOpro3 Kan",
-        "subpath": "pE-SUMOpro3_Kan"
+        "name": "pE-SUMOpro3 Amp",
+        "subpath": "pE-SUMOpro3_Amp"
       },
       {
         "name": "pHSG298",
         "subpath": "pHSG298"
       },
       {
-        "name": "pSMART BAC v2.0 (BamHI linearized)",
-        "subpath": "pSMART_BAC_v2.0_(BamHI_linearized)"
+        "name": "pSC101",
+        "subpath": "pSC101"
       },
       {
-        "name": "SP6 promoter",
-        "subpath": "SP6_promoter"
+        "name": "pYES1L",
+        "subpath": "pYES1L"
       },
       {
-        "name": "pE-SUMOstar Amp",
-        "subpath": "pE-SUMOstar_Amp"
+        "name": "pE-SUMOpro3 Kan",
+        "subpath": "pE-SUMOpro3_Kan"
       },
       {
         "name": "pHSG299",
         "subpath": "pHSG299"
       },
       {
-        "name": "pSMART BAC v2.0 (EcoRI linearized)",
-        "subpath": "pSMART_BAC_v2.0_(EcoRI_linearized)"
+        "name": "pSEAP2-Basic",
+        "subpath": "pSEAP2-Basic"
       },
       {
-        "name": "SV40 promoter",
-        "subpath": "SV40_promoter"
+        "name": "pZErO-2",
+        "subpath": "pZErO-2"
       },
       {
-        "name": "pE-SUMOstar Kan",
-        "subpath": "pE-SUMOstar_Kan"
+        "name": "pE-SUMOstar Amp",
+        "subpath": "pE-SUMOstar_Amp"
       },
       {
         "name": "pHSG396",
         "subpath": "pHSG396"
       },
       {
-        "name": "pSMART BAC v2.0 (HindIII linearized)",
-        "subpath": "pSMART_BAC_v2.0_(HindIII_linearized)"
+        "name": "pSF-Core",
+        "subpath": "pSF-Core"
       },
       {
-        "name": "T3 promoter",
-        "subpath": "T3_promoter"
+        "name": "SNAP-tag",
+        "subpath": "SNAP-tag"
       },
       {
-        "name": "pEASY-Blunt (linearized)",
-        "subpath": "pEASY-Blunt_(linearized)"
+        "name": "pE-SUMOstar Kan",
+        "subpath": "pE-SUMOstar_Kan"
       },
       {
         "name": "pHSG398",
         "subpath": "pHSG398"
       },
       {
-        "name": "pSMART FOS v2.0 (linearized)",
-        "subpath": "pSMART_FOS_v2.0_(linearized)"
+        "name": "pSMART BAC v2.0",
+        "subpath": "pSMART_BAC_v2.0"
       },
       {
-        "name": "T5 promoter",
-        "subpath": "T5_promoter"
+        "name": "SP6 promoter",
+        "subpath": "SP6_promoter"
       },
       {
-        "name": "pEASY-Blunt E1 (linearized)",
-        "subpath": "pEASY-Blunt_E1_(linearized)"
+        "name": "pEASY-Blunt (linearized)",
+        "subpath": "pEASY-Blunt_(linearized)"
       },
       {
         "name": "pHY300PLK",
         "subpath": "pHY300PLK"
       },
       {
-        "name": "pSMART HCAmp",
-        "subpath": "pSMART_HCAmp"
+        "name": "pSMART BAC v2.0 (BamHI linearized)",
+        "subpath": "pSMART_BAC_v2.0_(BamHI_linearized)"
       },
       {
-        "name": "T7 promoter",
-        "subpath": "T7_promoter"
+        "name": "SV40 promoter",
+        "subpath": "SV40_promoter"
       },
       {
-        "name": "pEASY-Blunt E2 (linearized)",
-        "subpath": "pEASY-Blunt_E2_(linearized)"
+        "name": "pEASY-Blunt E1 (linearized)",
+        "subpath": "pEASY-Blunt_E1_(linearized)"
       },
       {
         "name": "pICOz",
         "subpath": "pICOz"
       },
       {
-        "name": "pSMART HCAmp (linearized)",
-        "subpath": "pSMART_HCAmp_(linearized)"
+        "name": "pSMART BAC v2.0 (EcoRI linearized)",
+        "subpath": "pSMART_BAC_v2.0_(EcoRI_linearized)"
       },
       {
-        "name": "tac promoter",
-        "subpath": "tac_promoter"
+        "name": "T3 promoter",
+        "subpath": "T3_promoter"
       },
       {
-        "name": "pEASY-Blunt Simple (linearized)",
-        "subpath": "pEASY-Blunt_Simple_(linearized)"
+        "name": "pEASY-Blunt E2 (linearized)",
+        "subpath": "pEASY-Blunt_E2_(linearized)"
       },
       {
         "name": "pInvRecA",
         "subpath": "pInvRecA"
       },
       {
-        "name": "pSMART HCKan",
-        "subpath": "pSMART_HCKan"
+        "name": "pSMART BAC v2.0 (HindIII linearized)",
+        "subpath": "pSMART_BAC_v2.0_(HindIII_linearized)"
       },
       {
-        "name": "trc promoter",
-        "subpath": "trc_promoter"
+        "name": "T5 promoter",
+        "subpath": "T5_promoter"
       },
       {
-        "name": "pEASY-Blunt Zero (linearized)",
-        "subpath": "pEASY-Blunt_Zero_(linearized)"
+        "name": "pEASY-Blunt Simple (linearized)",
+        "subpath": "pEASY-Blunt_Simple_(linearized)"
       },
       {
         "name": "pJAZZ-OC",
         "subpath": "pJAZZ-OC"
       },
       {
-        "name": "pSMART HCKan (linearized)",
-        "subpath": "pSMART_HCKan_(linearized)"
+        "name": "pSMART FOS v2.0 (linearized)",
+        "subpath": "pSMART_FOS_v2.0_(linearized)"
       },
       {
-        "name": "phiX174",
-        "subpath": "phiX174"
+        "name": "T7 promoter",
+        "subpath": "T7_promoter"
+      },
+      {
+        "name": "pEASY-Blunt Zero (linearized)",
+        "subpath": "pEASY-Blunt_Zero_(linearized)"
+      },
+      {
+        "name": "pJAZZ-OK",
+        "subpath": "pJAZZ-OK"
+      },
+      {
+        "name": "pSMART HCAmp",
+        "subpath": "pSMART_HCAmp"
+      },
+      {
+        "name": "tac promoter",
+        "subpath": "tac_promoter"
       },
       {
         "name": "pEASY-Blunt3 (linearized)",
         "subpath": "pEASY-Blunt3_(linearized)"
       },
       {
-        "name": "pJAZZ-OK",
-        "subpath": "pJAZZ-OK"
+        "name": "pJET1.2",
+        "subpath": "pJET1.2"
+      },
+      {
+        "name": "pSMART HCAmp (linearized)",
+        "subpath": "pSMART_HCAmp_(linearized)"
+      },
+      {
+        "name": "trc promoter",
+        "subpath": "trc_promoter"
+      },
+      {
+        "name": "pEASY-T1 (linearized)",
+        "subpath": "pEASY-T1_(linearized)"
+      },
+      {
+        "name": "pJET1.2 blunt",
+        "subpath": "pJET1.2_blunt"
+      },
+      {
+        "name": "pSMART HCKan",
+        "subpath": "pSMART_HCKan"
+      },
+      {
+        "name": "phiX174",
+        "subpath": "phiX174"
       }
     ]
   },
@@ -6589,8 +6613,8 @@
         "subpath": "pJAZZ-OK_GC_(left_arm)"
       },
       {
-        "name": "pSpark TA",
-        "subpath": "pSpark_TA"
+        "name": "pSpark TA Done",
+        "subpath": "pSpark_TA_Done"
       },
       {
         "name": "pBAD-TOPO (linearized)",
@@ -6605,8 +6629,8 @@
         "subpath": "pJAZZ-OK_GC_(right_arm)"
       },
       {
-        "name": "pSpark TA Done",
-        "subpath": "pSpark_TA_Done"
+        "name": "pSTBlue-1 AccepTor",
+        "subpath": "pSTBlue-1_AccepTor"
       },
       {
         "name": "pBAD Thio-TOPO (linearized)",
@@ -6621,8 +6645,8 @@
         "subpath": "pLenti6.3_V5-TOPO_(linearized)"
       },
       {
-        "name": "pSTBlue-1 AccepTor",
-        "subpath": "pSTBlue-1_AccepTor"
+        "name": "pT7Blue T-Vector",
+        "subpath": "pT7Blue_T-Vector"
       },
       {
         "name": "pBlue-TOPO (linearized)",
@@ -6637,8 +6661,8 @@
         "subpath": "pLenti7.3_V5-TOPO_(linearized)"
       },
       {
-        "name": "pT7Blue T-Vector",
-        "subpath": "pT7Blue_T-Vector"
+        "name": "pTA Plus (linearized)",
+        "subpath": "pTA_Plus_(linearized)"
       },
       {
         "name": "pcDNA3.1 CT-GFP-TOPO (linearized)",
@@ -6653,8 +6677,8 @@
         "subpath": "pLPS-T_(linearized)"
       },
       {
-        "name": "pTA Plus (linearized)",
-        "subpath": "pTA_Plus_(linearized)"
+        "name": "pTargeT (linearized)",
+        "subpath": "pTargeT_(linearized)"
       },
       {
         "name": "pcDNA3.1 NT-GFP-TOPO (linearized)",
@@ -6669,8 +6693,8 @@
         "subpath": "pLUG_(linearized)"
       },
       {
-        "name": "pTargeT (linearized)",
-        "subpath": "pTargeT_(linearized)"
+        "name": "pTOP TA V2 (linearized)",
+        "subpath": "pTOP_TA_V2_(linearized)"
       },
       {
         "name": "pcDNA3.1 V5-His-TOPO (linearized)",
@@ -6685,8 +6709,8 @@
         "subpath": "pLUG-Multi_(linearized)"
       },
       {
-        "name": "pTOP TA V2 (linearized)",
-        "subpath": "pTOP_TA_V2_(linearized)"
+        "name": "pTrcHis-TOPO (linearized)",
+        "subpath": "pTrcHis-TOPO_(linearized)"
       },
       {
         "name": "pcDNA3.3-TOPO (linearized)",
@@ -6701,8 +6725,8 @@
         "subpath": "pMT_V5-His-TOPO_(linearized)"
       },
       {
-        "name": "pTrcHis-TOPO (linearized)",
-        "subpath": "pTrcHis-TOPO_(linearized)"
+        "name": "pTrcHis2-TOPO (linearized)",
+        "subpath": "pTrcHis2-TOPO_(linearized)"
       },
       {
         "name": "pcDNA3.4-TOPO (linearized)",
@@ -6717,8 +6741,8 @@
         "subpath": "pOptiVEC-TOPO_(linearized)"
       },
       {
-        "name": "pTrcHis2-TOPO (linearized)",
-        "subpath": "pTrcHis2-TOPO_(linearized)"
+        "name": "pTZ57R_T",
+        "subpath": "pTZ57R_T"
       },
       {
         "name": "pcDNA4 HisMax-TOPO (linearized)",
@@ -6733,8 +6757,8 @@
         "subpath": "pPrime_(linearized)"
       },
       {
-        "name": "pTZ57R_T",
-        "subpath": "pTZ57R_T"
+        "name": "pUC57-T",
+        "subpath": "pUC57-T"
       },
       {
         "name": "pcDNA5 FRT TO-TOPO (linearized)",
@@ -6749,8 +6773,8 @@
         "subpath": "pQE-30_UA_(linearized)"
       },
       {
-        "name": "pUC57-T",
-        "subpath": "pUC57-T"
+        "name": "pUCm-T (linearized)",
+        "subpath": "pUCm-T_(linearized)"
       },
       {
         "name": "pcDNA5 FRT V5-His-TOPO (linearized)",
@@ -6823,6 +6847,10 @@
       {
         "name": "pIB V5-His-TOPO (linearized)",
         "subpath": "pIB_V5-His-TOPO_(linearized)"
+      },
+      {
+        "name": "pSpark TA",
+        "subpath": "pSpark_TA"
       }
     ]
   },
