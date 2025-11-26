@@ -73,6 +73,9 @@ def get_plasmid_category_links():
 if __name__ == "__main__":
     check_robots_txt()
     category_links = get_plasmid_category_links()
+    for category_path, category in category_links.items():
+        category["plasmids"].sort(key=lambda x: x["name"].lower())
+
     with open("index.json", "w") as f:
         json.dump(category_links, f, indent=2)
     with open("index.yaml", "w") as f:
